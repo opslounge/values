@@ -103,14 +103,6 @@ arrays:
        APIToken: "T-62824b9d-edd7-41ca-b218-c754aba6356c"
        NfsEndPoint: "10.226.224.247"
 
-#       Labels:
-#         topology.purestorage.com/rack: "7b"
-#         topology.purestorage.com/env: "dev"
-#     - MgmtEndPoint: "1.2.3.8"
-#       APIToken: "T-d4925090-c9bf-4033-8537-d24ee5669135"
-#       NfsEndPoint: "1.2.3.9"
-#       Labels:
-#         topology.purestorage.com/rack: "6a"
 
 mounter:
   # These values map directly to yaml in the daemonset spec, see the kubernetes docs for info
